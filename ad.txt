@@ -1,13 +1,17 @@
 !Title: AdGuard-Home
 !Version: 20210823173536
 !Homepage: https://github.com/xhrzg2017/AdGuard-Home
-!!!This list only applies to "AdGuard Home".
+!!!This list only applies to "AdGuard Home"
 
 #293影院
-@@||ccys.me^$important
+@@||ccys.me
+
 #搜狗
 ||get.sogou.com
 ||ping.pinyin.sogou.com
-||lupic.cdn.bcebos.com^$important
+
+#百度
+||lupic.cdn.bcebos.com
+
 #微软
 ||ntp.msn.cn
