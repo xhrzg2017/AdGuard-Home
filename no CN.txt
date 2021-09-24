@@ -3,5 +3,8 @@
 !Homepage: https://github.com/xhrzg2017/AdGuard-Home
 !!!This list only applies to "AdGuard Home"
 #长安通信
-||fzapph5.chanct.cn
+||chanct.cn
 ||gjfzpt.cn
+||fz96110.com
+||chanct.com
+||chanct.ltd
