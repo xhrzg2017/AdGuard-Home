@@ -13,7 +13,6 @@
 
 #百度
 ||lupic.cdn.bcebos.com
-||bdstatic.com
 ||fc1tn.baidu.com
 ||edu-wenku.bdimg.com
 
