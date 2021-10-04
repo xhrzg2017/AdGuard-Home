@@ -13,6 +13,8 @@
 
 #百度
 ||lupic.cdn.bcebos.com
+||fc1tn.baidu.com
+||edu-wenku.bdimg.com
 
 #微软
 ||ntp.msn.cn
