@@ -4,8 +4,7 @@
 !!!This list only applies to "AdGuard Home"
 
 #293影院
-@@||ccys.me
-@@||tmtv.me
+@@||smtvzm.co
 
 #搜狗
 ||get.sogou.com
