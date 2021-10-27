@@ -11,3 +11,6 @@
 
 #黑瞳信息
 ||fzlm.org.cn^
+
+#xuexi
+||xuexi.cn^
