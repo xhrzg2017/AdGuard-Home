@@ -18,3 +18,6 @@
 #微软
 ||ntp.msn.cn
 ||cn.bing.com
+
+#腾讯头像网
+@@||p.qlogo.cn
