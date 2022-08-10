@@ -1,24 +1,18 @@
 !Title: AdGuard-Home
-!Version: 20210823173536
+!Version: 20220810090536
 !Homepage: https://github.com/xhrzg2017/AdGuard-Home
 !!!This list only applies to "AdGuard Home"
 
-#293影院
-@@||smtvzm.co
 
 #搜狗
 ||get.sogou.com
 ||ping.pinyin.sogou.com
 
-#百度
-||lupic.cdn.bcebos.com
-||fc1tn.baidu.com
-||edu-wenku.bdimg.com
 
 #微软
 ||ntp.msn.cn
 ||cn.bing.com
 
-#腾讯头像网
-@@||p.qlogo.cn
-
+#wps
+||wps.cn
+||cloudservice7.kingsoft-office-service.com
