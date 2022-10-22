@@ -3,4 +3,4 @@
 !Homepage: https://github.com/xhrzg2017/AdGuard-Home
 !!!This list only applies to "AdGuard Home"
 
-192.168.1.29 ica.gdcp.cn
+192.168.1.29 @@||ica.gdcp.cn
