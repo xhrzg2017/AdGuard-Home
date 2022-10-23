@@ -10,7 +10,7 @@
 
 
 #微软
-||ntp.msn.cn
+||msn.cn
 ||cn.bing.com
 
 #wps
