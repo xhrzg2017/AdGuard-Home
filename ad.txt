@@ -8,10 +8,5 @@
 ||get.sogou.com
 ||ping.pinyin.sogou.com
 
-
-#微软
-||msn.cn
-||cn.bing.com
-
 #wps
 ||cloudservice7.kingsoft-office-service.com
