@@ -14,5 +14,4 @@
 ||cn.bing.com
 
 #wps
-||wps.cn
 ||cloudservice7.kingsoft-office-service.com
