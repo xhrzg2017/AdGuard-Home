@@ -23,3 +23,7 @@
 #B站PCDN
 ||szbdyd.com^
 ||mcdn.bilivideo.com^
+
+#donho notepad++
+||notepad-plus-plus.org
+||donho.github.io
