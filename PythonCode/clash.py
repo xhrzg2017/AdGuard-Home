@@ -24,8 +24,11 @@ utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
 time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
 with open(dirs+'/clash_adgdns.txt', 'w+', encoding='utf-8') as f:
     # print(data)
-    info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于clash分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n127.0.0.1:7874\n'
+    info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于clash分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
     f.write(info)
+    f.close()
+    dns = '127.0.0.1:7874\n'
+    f.write(dns)
     f.close()
 with open(dirs+'/clash_adgdns.txt', 'ab') as f:
     f.write(data)
