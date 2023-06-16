@@ -17,7 +17,7 @@ response = urllib.request.urlopen(request,context=context)
 data = response.read()
 #print(data)
 #6.保存到文件中 验证数据
-dirs = '../'
+dirs = './'
 if not os.path.exists(dirs):
     os.makedirs(dirs)
 utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
