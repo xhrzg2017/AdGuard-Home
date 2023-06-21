@@ -28,7 +28,7 @@ with open(dirs+'/clash_adgdns.txt'， 'w+', encoding='utf-8') as f:
     f.write(info)
     dns = '127.0.0.1:7874\n'
     f.write(dns)
-    outside = [/webstatic.hoyoverse.com/]127.0.0.1:7874\n'
+    outside = '[/webstatic.hoyoverse。com/]127.0。0.1:7874\n'
     f.write(outside)
     f.close()
 with open(dirs+'/clash_adgdns.txt'， 'ab') as f:
