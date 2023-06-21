@@ -41,7 +41,7 @@ jobs:
          git pull origin master
          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config --local user.name "github-actions[bot]"
-         git add ./clash_adgdns.txt
+         git add ./clash.txt
          git commit -m "由github actions推送更新clash分流文件,日期:`date`"
     - name: 推送更改
       uses:  ad-m/github-push-action@master
