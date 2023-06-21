@@ -22,7 +22,7 @@ if not os.path.exists(dirs):
     os.makedirs(dirs)
 utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
 time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
-with open(dirs+'/clash_adgdns.txt', 'w+', encoding='utf-8') as f:
+with open(dirs+'/clash.txt', 'w+', encoding='utf-8') as f:
     # print(data)
     info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于clash分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
     f.write(info)
@@ -31,5 +31,5 @@ with open(dirs+'/clash_adgdns.txt', 'w+', encoding='utf-8') as f:
     outside = '[/webstatic.hoyoverse.com/]'+dns
     f.write(outside)
     f.close()
-with open(dirs+'/clash_adgdns.txt', 'ab') as f:
+with open(dirs+'/clash.txt', 'ab') as f:
     f.write(data)
