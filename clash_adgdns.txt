@@ -1,4 +1,4 @@
-#2023-06-21 06:19更新 
+#2023-06-21 10:14更新 
 #本txt文件由Actions定时生成
 #用于clash分流
 #感谢mouyase大大白名单
@@ -5738,7 +5738,6 @@
 [/8090xx.com/]https://dns.alidns.com/dns-query
 [/8090yx.com/]https://dns.alidns.com/dns-query
 [/8090yxs.com/]https://dns.alidns.com/dns-query
-[/809803.com/]https://dns.alidns.com/dns-query
 [/809926.net/]https://dns.alidns.com/dns-query
 [/80baicai.biz/]https://dns.alidns.com/dns-query
 [/80bi.com/]https://dns.alidns.com/dns-query
@@ -7805,7 +7804,6 @@
 [/aiweibang.com/]https://dns.alidns.com/dns-query
 [/aiweline.com/]https://dns.alidns.com/dns-query
 [/aiwen.cc/]https://dns.alidns.com/dns-query
-[/aiwenwo.net/]https://dns.alidns.com/dns-query
 [/aiwenyi.com/]https://dns.alidns.com/dns-query
 [/aiworkspace.com/]https://dns.alidns.com/dns-query
 [/aiwulao.com/]https://dns.alidns.com/dns-query
@@ -17293,6 +17291,7 @@
 [/dazhe5.com/]https://dns.alidns.com/dns-query
 [/dazhenzimiao.com/]https://dns.alidns.com/dns-query
 [/dazhewa.com/]https://dns.alidns.com/dns-query
+[/dazhong.com/]https://dns.alidns.com/dns-query
 [/dazhongbanben.com/]https://dns.alidns.com/dns-query
 [/dazhonghr.com/]https://dns.alidns.com/dns-query
 [/dazhoumzj.com/]https://dns.alidns.com/dns-query
@@ -18145,6 +18144,7 @@
 [/diygogogo.com/]https://dns.alidns.com/dns-query
 [/diygw.com/]https://dns.alidns.com/dns-query
 [/diyhi.com/]https://dns.alidns.com/dns-query
+[/diyiapp.com/]https://dns.alidns.com/dns-query
 [/diyicai.com/]https://dns.alidns.com/dns-query
 [/diyidan.com/]https://dns.alidns.com/dns-query
 [/diyidan.net/]https://dns.alidns.com/dns-query
@@ -20634,6 +20634,7 @@
 [/excelpx.com/]https://dns.alidns.com/dns-query
 [/exceltip.net/]https://dns.alidns.com/dns-query
 [/exchen.net/]https://dns.alidns.com/dns-query
+[/excm.net/]https://dns.alidns.com/dns-query
 [/exdoll.com/]https://dns.alidns.com/dns-query
 [/exexm.com/]https://dns.alidns.com/dns-query
 [/exezhanqun.com/]https://dns.alidns.com/dns-query
@@ -38859,6 +38860,7 @@
 [/mumayi.com/]https://dns.alidns.com/dns-query
 [/mumu01.com/]https://dns.alidns.com/dns-query
 [/muniao.com/]https://dns.alidns.com/dns-query
+[/mupao.com/]https://dns.alidns.com/dns-query
 [/mupceet.com/]https://dns.alidns.com/dns-query
 [/mupmstx.com/]https://dns.alidns.com/dns-query
 [/murdermysterypa.com/]https://dns.alidns.com/dns-query
@@ -42609,6 +42611,7 @@
 [/pystarter.com/]https://dns.alidns.com/dns-query
 [/pytgo.com/]https://dns.alidns.com/dns-query
 [/python-china.com/]https://dns.alidns.com/dns-query
+[/python100.com/]https://dns.alidns.com/dns-query
 [/python51.com/]https://dns.alidns.com/dns-query
 [/pythonav.com/]https://dns.alidns.com/dns-query
 [/pythonclub.org/]https://dns.alidns.com/dns-query
@@ -48515,6 +48518,7 @@
 [/starpiao.com/]https://dns.alidns.com/dns-query
 [/starrockinvest.com/]https://dns.alidns.com/dns-query
 [/starrtc.com/]https://dns.alidns.com/dns-query
+[/starrydyn.com/]https://dns.alidns.com/dns-query
 [/starrysurvey.com/]https://dns.alidns.com/dns-query
 [/stars-one.site/]https://dns.alidns.com/dns-query
 [/starschina.com/]https://dns.alidns.com/dns-query
@@ -57561,6 +57565,7 @@
 [/xitek.net/]https://dns.alidns.com/dns-query
 [/xitie.com/]https://dns.alidns.com/dns-query
 [/xitieba.com/]https://dns.alidns.com/dns-query
+[/xitieba.net/]https://dns.alidns.com/dns-query
 [/xitmi.com/]https://dns.alidns.com/dns-query
 [/xitong-tech.com/]https://dns.alidns.com/dns-query
 [/xitong110.com/]https://dns.alidns.com/dns-query
@@ -63721,6 +63726,7 @@
 [/zshield.net/]https://dns.alidns.com/dns-query
 [/zshl.com/]https://dns.alidns.com/dns-query
 [/zshlife.com/]https://dns.alidns.com/dns-query
+[/zshtys888.com/]https://dns.alidns.com/dns-query
 [/zshuoshao.online/]https://dns.alidns.com/dns-query
 [/zsia.org/]https://dns.alidns.com/dns-query
 [/zsihuo.com/]https://dns.alidns.com/dns-query
