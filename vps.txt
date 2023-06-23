@@ -1,4 +1,4 @@
-#2023-06-23 06:23更新 
+#2023-06-23 10:37更新 
 #本txt文件由Actions定时生成
 #用于clash分流
 #感谢mouyase大大白名单
@@ -19564,7 +19564,6 @@ https://dns.google/dns-query
 [/easytrip.com/]https://dns.alidns.com/dns-query
 [/easyzw.com/]https://dns.alidns.com/dns-query
 [/eateapp.com/]https://dns.alidns.com/dns-query
-[/eaten.fun/]https://dns.alidns.com/dns-query
 [/eaydu.com/]https://dns.alidns.com/dns-query
 [/eayou.com/]https://dns.alidns.com/dns-query
 [/eayuan.com/]https://dns.alidns.com/dns-query
@@ -24649,6 +24648,7 @@ https://dns.google/dns-query
 [/h6app.com/]https://dns.alidns.com/dns-query
 [/h7ec.com/]https://dns.alidns.com/dns-query
 [/h8jx.com/]https://dns.alidns.com/dns-query
+[/h9hash.com/]https://dns.alidns.com/dns-query
 [/ha97.com/]https://dns.alidns.com/dns-query
 [/haawking.com/]https://dns.alidns.com/dns-query
 [/habadog.com/]https://dns.alidns.com/dns-query
@@ -36623,7 +36623,6 @@ https://dns.google/dns-query
 [/lzhpo.com/]https://dns.alidns.com/dns-query
 [/lzhygame.com/]https://dns.alidns.com/dns-query
 [/lzjdbjc.com/]https://dns.alidns.com/dns-query
-[/lzjjdd.net/]https://dns.alidns.com/dns-query
 [/lzjoy.com/]https://dns.alidns.com/dns-query
 [/lzlj.com/]https://dns.alidns.com/dns-query
 [/lzmoyin.com/]https://dns.alidns.com/dns-query
@@ -44040,7 +44039,6 @@ https://dns.google/dns-query
 [/qutuiwa.com/]https://dns.alidns.com/dns-query
 [/quumii.com/]https://dns.alidns.com/dns-query
 [/quvisa.com/]https://dns.alidns.com/dns-query
-[/quw1234.icu/]https://dns.alidns.com/dns-query
 [/quwaifu.com/]https://dns.alidns.com/dns-query
 [/quwan.com/]https://dns.alidns.com/dns-query
 [/quwan.fun/]https://dns.alidns.com/dns-query
@@ -46706,6 +46704,7 @@ https://dns.google/dns-query
 [/shiwan.com/]https://dns.alidns.com/dns-query
 [/shiwangyun.com/]https://dns.alidns.com/dns-query
 [/shiweisemi.com/]https://dns.alidns.com/dns-query
+[/shiwusmd.com/]https://dns.alidns.com/dns-query
 [/shixian.com/]https://dns.alidns.com/dns-query
 [/shixiaojin.com/]https://dns.alidns.com/dns-query
 [/shixibiaozhi.com/]https://dns.alidns.com/dns-query
@@ -48278,6 +48277,7 @@ https://dns.google/dns-query
 [/speednt.com/]https://dns.alidns.com/dns-query
 [/speedpdf.com/]https://dns.alidns.com/dns-query
 [/speedsz.net/]https://dns.alidns.com/dns-query
+[/speedtest.im/]https://dns.alidns.com/dns-query
 [/speedws.info/]https://dns.alidns.com/dns-query
 [/speedws.org/]https://dns.alidns.com/dns-query
 [/speiyou.com/]https://dns.alidns.com/dns-query
@@ -63743,7 +63743,6 @@ https://dns.google/dns-query
 [/ztch.ltd/]https://dns.alidns.com/dns-query
 [/ztcia.com/]https://dns.alidns.com/dns-query
 [/ztcnwy.com/]https://dns.alidns.com/dns-query
-[/ztdad.com/]https://dns.alidns.com/dns-query
 [/zte.net/]https://dns.alidns.com/dns-query
 [/ztedevice.com/]https://dns.alidns.com/dns-query
 [/ztedevices.com/]https://dns.alidns.com/dns-query
