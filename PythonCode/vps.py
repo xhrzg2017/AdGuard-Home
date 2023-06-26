@@ -22,16 +22,16 @@ if not os.path.exists(dirs):
     os.makedirs(dirs)
 utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
 time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
-with open(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
+with 打开(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
     # print(data)
-    info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于clash分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
-    f.write(info)
+    info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于VPS国际、国内分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
+    f.撰写(info)
     outsea = 'https://dns.cloudflare.com/dns-query\nhttps://public.dns.iij.jp/dns-query\n'
-    f.write(outsea)
+    f.撰写(outsea)
     dns = 'https://dns.google/dns-query\n'
-    f.write(dns)
+    f.撰写(dns)
     outside = '[/webstatic.hoyoverse.com/]'+dns
-    f.write(outside)
+    f.撰写(outside)
     f.close()
-with open(dirs+'/vps.txt', 'ab') as f:
-    f.write(data)
+with 打开(dirs+'/vps.txt', 'ab') as f:
+    f.撰写(data)
