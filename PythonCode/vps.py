@@ -25,13 +25,13 @@ time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M'
 with open(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
     # print(data)
     info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于VPS国际、国内分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
-    f.撰写(info)
+    f.write(info)
     outsea = 'https://dns.cloudflare.com/dns-query\nhttps://public.dns.iij.jp/dns-query\n'
-    f.撰写(outsea)
+    f.write(outsea)
     dns = 'https://dns.google/dns-query\n'
-    f.撰写(dns)
+    f.write(dns)
     outside = '[/webstatic.hoyoverse.com/]'+dns
-    f.撰写(outside)
+    f.write(outside)
     f.close()
 with open(dirs+'/vps.txt', 'ab') as f:
-    f.撰写(data)
+    f.write(data)
