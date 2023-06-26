@@ -22,7 +22,7 @@ if not os.path.exists(dirs):
     os.makedirs(dirs)
 utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
 time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
-with 打开(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
+with open(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
     # print(data)
     info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于VPS国际、国内分流\n#感谢mouyase大大白名单\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
     f.撰写(info)
@@ -33,5 +33,5 @@ with 打开(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
     outside = '[/webstatic.hoyoverse.com/]'+dns
     f.撰写(outside)
     f.close()
-with 打开(dirs+'/vps.txt', 'ab') as f:
+with open(dirs+'/vps.txt', 'ab') as f:
     f.撰写(data)
