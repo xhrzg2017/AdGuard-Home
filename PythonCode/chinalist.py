@@ -1,6 +1,6 @@
 import urllib.request
 import ssl,os,re
-
+from datetime import datetime, timedelta, timezone
 def get():
     context = ssl._create_unverified_context()
 
@@ -30,6 +30,10 @@ def get():
 def dns():
     dirs = './'
     with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as file:
+        utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
+        time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
+        info = '# ' + time + '更新ChinaList \n'
+        file.write(info)
         with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
                 instde_dns = 'https://dns.pub/dns-query'
