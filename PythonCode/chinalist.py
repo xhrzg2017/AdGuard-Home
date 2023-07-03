@@ -4,8 +4,8 @@ import ssl,os,re
 def get():
     context = ssl._create_unverified_context()
 
-    #1.felixonmars大大白名单url
-    url = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf'
+    #1.mouyase大大白名单url
+    url = 'https://raw.githubusercontent.com/mouyase/ChinaListForAdGuardHome/gh-pages/ChinaList.txt'
     #2.添加请求头
     headers = {
         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'
@@ -29,25 +29,24 @@ def get():
 
 def dns():
     dirs = './'
-    with open(dirs+'/cache1.txt', 'w+', encoding='utf-8') as file:
+    with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as file:
         with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
-                str1=re.sub('server=/','',line)
-                str2=re.sub('/114.114.114.114','',str1)
-                instde_dns = 'https://dns.pub/dns-query\n'
-                file.write('[/'+str2[:-1]+'/]'+instde_dns)
+                instde_dns = 'https://dns.pub/dns-query'
+                str1=re.sub('https://dns.alidns.com/dns-query',instde_dns,line)
+                file.write(str1)
             file.close()
-    clearBlankLine()
-
-def clearBlankLine():
-    dirs = './'
-    with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as f:
-        with open(dirs + '/cache1.txt', 'r', encoding='utf-8') as file2:
-            lines = file2.read().split('\n')
-            # 删除最后一行
-            lines = lines[:-1]
-            # 将剩余的行重新写回文件
-            f.write('\n'.join(lines))
+#     clearBlankLine()
+#
+# def clearBlankLine():
+#     dirs = './'
+#     with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as f:
+#         with open(dirs + '/cache1.txt', 'r', encoding='utf-8') as file2:
+#             lines = file2.read().split('\n')
+#             # 删除最后一行
+#             lines = lines[:-1]
+#             # 将剩余的行重新写回文件
+#             f.write('\n'.join(lines))
 #
 if __name__ == '__main__':
     get()
