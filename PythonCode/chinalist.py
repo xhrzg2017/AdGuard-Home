@@ -21,7 +21,7 @@ def get():
     dirs = './'
     if not os.path.exists(dirs):
         os.makedirs(dirs)
-    with open(dirs+'/cache.txt','wb') as f:
+    with open(dirs+'cache.txt','wb') as f:
         # print(data)
         f.write(data)
         f.close()
@@ -29,20 +29,21 @@ def get():
 
 def dns():
     dirs = './'
-    with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as file:
-        with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
+    with open(dirs+'chinalist.txt', 'w+', encoding='utf-8') as file:
+        with open(dirs + 'cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
                 instde_dns = 'https://dns.pub/dns-query'
                 str1=re.sub('https://dns.alidns.com/dns-query',instde_dns,line)
                 file.write(str1)
             file.close()
-            
+            file1.close()
+            os.remove(dirs+'cache.txt')
 #     clearBlankLine()
 #
 # def clearBlankLine():
 #     dirs = './'
-#     with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as f:
-#         with open(dirs + '/cache1.txt', 'r', encoding='utf-8') as file2:
+#     with open(dirs+'chinalist.txt', 'w+', encoding='utf-8') as f:
+#         with open(dirs + 'cache1.txt', 'r', encoding='utf-8') as file2:
 #             lines = file2.read().split('\n')
 #             # 删除最后一行
 #             lines = lines[:-1]
