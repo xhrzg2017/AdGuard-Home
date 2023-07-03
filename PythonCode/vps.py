@@ -24,7 +24,7 @@ utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
 time = utc_dt.astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M')
 with open(dirs+'/vps.txt', 'w+', encoding='utf-8') as f:
     # print(data)
-    info ='#'+time+'更新 \n' + '#本txt文件由Actions定时生成\n#用于VPS国际、国内分流\n#项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
+    info ='# '+time+'更新 \n' + '# 本txt文件由Actions定时生成\n# 用于VPS国际、国内分流\n# 项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
     f.write(info)
     outsea = 'https://dns11.quad9.net/dns-query\nhttps://public.dns.iij.jp/dns-query\n'
     f.write(outsea)
