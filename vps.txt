@@ -1,4 +1,4 @@
-# 2023-07-03 17:00更新 
+# 2023-07-03 18:25更新 
 # 本txt文件由Actions定时生成
 # 用于VPS国际、国内分流
 # 项目地址：https://github.com/xhrzg2017/AdGuard-Home
@@ -6,7 +6,7 @@ https://dns11.quad9.net/dns-query
 https://public.dns.iij.jp/dns-query
 https://doh.dns.sb/dns-query
 [/webstatic.hoyoverse.com/]https://doh.dns.sb/dns-query
-# 2023-07-03 16:59更新ChinaList 
+# 2023-07-03 18:19更新ChinaList 
 [/0-6.com/]https://dns.pub/dns-query
 [/00.net/]https://dns.pub/dns-query
 [/000.link/]https://dns.pub/dns-query
