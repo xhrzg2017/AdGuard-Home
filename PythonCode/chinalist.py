@@ -36,6 +36,7 @@ def dns():
                 str1=re.sub('https://dns.alidns.com/dns-query',instde_dns,line)
                 file.write(str1)
             file.close()
+            
 #     clearBlankLine()
 #
 # def clearBlankLine():
