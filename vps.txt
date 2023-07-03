@@ -1,4 +1,4 @@
-# 2023-07-03 12:05更新 
+# 2023-07-03 12:46更新 
 # 本txt文件由Actions定时生成
 # 用于VPS国际、国内分流
 # 项目地址：https://github.com/xhrzg2017/AdGuard-Home
@@ -9178,7 +9178,6 @@ https://doh.dns.sb/dns-query
 [/awuming.com/]https://dns.pub/dns-query
 [/awx1.com/]https://dns.pub/dns-query
 [/awyyzx.com/]https://dns.pub/dns-query
-[/#ax1x.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/391/]https://dns.pub/dns-query
 [/ax2nc4.ren/]https://dns.pub/dns-query
 [/ax630.com/]https://dns.pub/dns-query
 [/axatp.com/]https://dns.pub/dns-query
@@ -23339,7 +23338,6 @@ https://doh.dns.sb/dns-query
 [/globalmil.com/]https://dns.pub/dns-query
 [/globalpingbao.com/]https://dns.pub/dns-query
 [/globalscanner.com/]https://dns.pub/dns-query
-[/#globalsign.com # Disabled: very unstable/]https://dns.pub/dns-query
 [/globalslb.net/]https://dns.pub/dns-query
 [/globalsources.com/]https://dns.pub/dns-query
 [/globalstech.com/]https://dns.pub/dns-query
@@ -54036,7 +54034,6 @@ https://doh.dns.sb/dns-query
 [/webkv.com/]https://dns.pub/dns-query
 [/webmeng.net/]https://dns.pub/dns-query
 [/webmulu.com/]https://dns.pub/dns-query
-[/#webnovel.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/386/]https://dns.pub/dns-query
 [/webok.me/]https://dns.pub/dns-query
 [/webond.net/]https://dns.pub/dns-query
 [/weboss.hk/]https://dns.pub/dns-query
@@ -55945,7 +55942,6 @@ https://doh.dns.sb/dns-query
 [/www.akamai.com/]https://dns.pub/dns-query
 [/www.amd.com/]https://dns.pub/dns-query
 [/www.analog.com/]https://dns.pub/dns-query
-[/#www.bing.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/commit/449e1faf9816226ba30082cdc54061f520f78f81#r31928598/]https://dns.pub/dns-query
 [/www.cc/]https://dns.pub/dns-query
 [/www.cdnetworks.com/]https://dns.pub/dns-query
 [/www.cg/]https://dns.pub/dns-query
@@ -55959,7 +55955,6 @@ https://doh.dns.sb/dns-query
 [/www.gov.mo/]https://dns.pub/dns-query
 [/www.htc.com/]https://dns.pub/dns-query
 [/www.htcsense.com/]https://dns.pub/dns-query
-[/#www.linkedin.com # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/335/]https://dns.pub/dns-query
 [/www.microsoft.com/]https://dns.pub/dns-query
 [/www.nike.com/]https://dns.pub/dns-query
 [/www.redhat.com/]https://dns.pub/dns-query
@@ -63606,7 +63601,6 @@ https://doh.dns.sb/dns-query
 [/zookingsoft.com/]https://dns.pub/dns-query
 [/zookparts.com/]https://dns.pub/dns-query
 [/zoom-china.com/]https://dns.pub/dns-query
-[/#zoom.us # Disabled: https://github.com/felixonmars/dnsmasq-china-list/issues/29/]https://dns.pub/dns-query
 [/zoomeye.org/]https://dns.pub/dns-query
 [/zoomlion.com/]https://dns.pub/dns-query
 [/zoopda.com/]https://dns.pub/dns-query
