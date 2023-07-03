@@ -1,7 +1,7 @@
-#2023-07-03 11:23更新 
-#本txt文件由Actions定时生成
-#用于VPS国际、国内分流
-#项目地址：https://github.com/xhrzg2017/AdGuard-Home
+# 2023-07-03 12:05更新 
+# 本txt文件由Actions定时生成
+# 用于VPS国际、国内分流
+# 项目地址：https://github.com/xhrzg2017/AdGuard-Home
 https://dns11.quad9.net/dns-query
 https://public.dns.iij.jp/dns-query
 https://doh.dns.sb/dns-query
