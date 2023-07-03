@@ -33,7 +33,7 @@ def dns():
         with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
                 str1=re.sub('server=/','',line)
-                str2=re.sub('/114.114.114.114','',line)
+                str2=re.sub('/114.114.114.114','',str1)
                 instde_dns = 'https://dns.pub/dns-query\n'
                 file.write('[/'+str2[:-1]+'/]'+instde_dns)
             file.close()
