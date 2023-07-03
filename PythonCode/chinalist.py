@@ -21,7 +21,7 @@ def get():
     dirs = './'
     if not os.path.exists(dirs):
         os.makedirs(dirs)
-    with open(dirs+'cache.txt','wb') as f:
+    with open(dirs+'/cache.txt','wb') as f:
         # print(data)
         f.write(data)
         f.close()
@@ -29,8 +29,8 @@ def get():
 
 def dns():
     dirs = './'
-    with open(dirs+'chinalist.txt', 'w+', encoding='utf-8') as file:
-        with open(dirs + 'cache.txt', 'r', encoding='utf-8') as file1:
+    with open(dirs+'/chinalist.txt', 'w+', encoding='utf-8') as file:
+        with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
                 instde_dns = 'https://dns.pub/dns-query'
                 str1=re.sub('https://dns.alidns.com/dns-query',instde_dns,line)
