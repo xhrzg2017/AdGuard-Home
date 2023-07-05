@@ -1,4 +1,4 @@
-# 2023-07-05 13:17更新ChinaList 
+# 2023-07-05 18:20更新ChinaList 
 [/0-6.com/]https://dns.pub/dns-query
 [/00.net/]https://dns.pub/dns-query
 [/000.link/]https://dns.pub/dns-query
