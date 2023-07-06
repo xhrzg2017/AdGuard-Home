@@ -36,7 +36,7 @@ def dns():
         file.write(info)
         with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
-                instde_dns = 'https://dns.pub/dns-query'
+                instde_dns = 'https://doh.apad.pro/dns-query'
                 str1=re.sub('https://dns.alidns.com/dns-query',instde_dns,line)
                 file.write(str1)
             file.close()
