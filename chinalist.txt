@@ -1,4 +1,4 @@
-# 2023-07-07 06:16更新ChinaList 
+# 2023-07-07 10:33更新ChinaList 
 [/0-6.com/]https://doh.apad.pro/dns-query
 [/00.net/]https://doh.apad.pro/dns-query
 [/000.link/]https://doh.apad.pro/dns-query
@@ -7314,6 +7314,7 @@
 [/adxvip.com/]https://doh.apad.pro/dns-query
 [/adxwork.com/]https://doh.apad.pro/dns-query
 [/adyounger.com/]https://doh.apad.pro/dns-query
+[/adysimg.com/]https://doh.apad.pro/dns-query
 [/adyun.com/]https://doh.apad.pro/dns-query
 [/adzar-energy.com/]https://doh.apad.pro/dns-query
 [/adzh.com/]https://doh.apad.pro/dns-query
@@ -8802,7 +8803,6 @@
 [/arkread.com/]https://doh.apad.pro/dns-query
 [/arkteam.net/]https://doh.apad.pro/dns-query
 [/arliki.com/]https://doh.apad.pro/dns-query
-[/arm001.com/]https://doh.apad.pro/dns-query
 [/arm9.net/]https://doh.apad.pro/dns-query
 [/arm9home.net/]https://doh.apad.pro/dns-query
 [/armbbs.net/]https://doh.apad.pro/dns-query
@@ -17741,7 +17741,6 @@
 [/dgwtrl.com/]https://doh.apad.pro/dns-query
 [/dgxbjg.com/]https://doh.apad.pro/dns-query
 [/dgxinde.net/]https://doh.apad.pro/dns-query
-[/dgxinyuds.com/]https://doh.apad.pro/dns-query
 [/dgxue.com/]https://doh.apad.pro/dns-query
 [/dgyejia.com/]https://doh.apad.pro/dns-query
 [/dgygpx.com/]https://doh.apad.pro/dns-query
@@ -26133,7 +26132,6 @@
 [/hijoys.com/]https://doh.apad.pro/dns-query
 [/hikailink.com/]https://doh.apad.pro/dns-query
 [/hikcreate.com/]https://doh.apad.pro/dns-query
-[/hikedj.com/]https://doh.apad.pro/dns-query
 [/hiklife.com/]https://doh.apad.pro/dns-query
 [/hikoon.com/]https://doh.apad.pro/dns-query
 [/hikops.com/]https://doh.apad.pro/dns-query
@@ -48372,6 +48370,7 @@
 [/ssdata.com/]https://doh.apad.pro/dns-query
 [/ssdax.com/]https://doh.apad.pro/dns-query
 [/ssdfans.com/]https://doh.apad.pro/dns-query
+[/ssdzg.com/]https://doh.apad.pro/dns-query
 [/sseinfo.com/]https://doh.apad.pro/dns-query
 [/ssf.cc/]https://doh.apad.pro/dns-query
 [/ssfiction.com/]https://doh.apad.pro/dns-query
@@ -56810,6 +56809,7 @@
 [/xiaohulu.com/]https://doh.apad.pro/dns-query
 [/xiaohuochai.cc/]https://doh.apad.pro/dns-query
 [/xiaohuochai.site/]https://doh.apad.pro/dns-query
+[/xiaohus.com/]https://doh.apad.pro/dns-query
 [/xiaohuwl.com/]https://doh.apad.pro/dns-query
 [/xiaoice.com/]https://doh.apad.pro/dns-query
 [/xiaoj.com/]https://doh.apad.pro/dns-query
@@ -58730,7 +58730,6 @@
 [/yanglong.pro/]https://doh.apad.pro/dns-query
 [/yangluojob.com/]https://doh.apad.pro/dns-query
 [/yangmao.info/]https://doh.apad.pro/dns-query
-[/yangmaodang.org/]https://doh.apad.pro/dns-query
 [/yangmaohao.net/]https://doh.apad.pro/dns-query
 [/yangner.com/]https://doh.apad.pro/dns-query
 [/yangqianguan.com/]https://doh.apad.pro/dns-query
