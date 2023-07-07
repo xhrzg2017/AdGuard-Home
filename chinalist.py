@@ -54,6 +54,9 @@ def clearBlankLine():
             lines = lines[:-1]
             # 将剩余的行重新写回文件
             f.write('\n'.join(lines))
+            f.close()
+            file2.close()
+            os.remove(dirs + 'cache1.txt')
 
 if __name__ == '__main__':
     get()
