@@ -1,4 +1,4 @@
-# 2023-07-15 06:37更新ChinaList 
+# 2023-07-15 07:42更新ChinaList 
 [/13th.tech/]https://doh.apad.pro/dns-query
 [/423down.com/]https://doh.apad.pro/dns-query
 [/bokecc.com/]https://doh.apad.pro/dns-query
@@ -139,8 +139,6 @@
 [/douyu.tv/]https://doh.apad.pro/dns-query
 [/douyuscdn.com/]https://doh.apad.pro/dns-query
 [/douyutv.com/]https://doh.apad.pro/dns-query
-[/epicgames.com/]https://doh.apad.pro/dns-query
-[/epicgames.dev/]https://doh.apad.pro/dns-query
 [/helpshift.com/]https://doh.apad.pro/dns-query
 [/paragon.com/]https://doh.apad.pro/dns-query
 [/unrealengine.com/]https://doh.apad.pro/dns-query
