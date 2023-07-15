@@ -1,4 +1,4 @@
-# 2023-07-15 06:22更新 
+# 2023-07-15 10:40更新 
 # 本txt文件由Actions定时生成
 # 用于VPS国际、国内分流
 # 项目地址：https://github.com/xhrzg2017/AdGuard-Home
@@ -6,7 +6,7 @@ https://dns11.quad9.net/dns-query
 https://dns.google/dns-query
 https://doh.opendns.com/dns-query
 [/webstatic.hoyoverse.com/]https://doh.opendns.com/dns-query
-# 2023-07-15 06:15更新ChinaList 
+# 2023-07-15 10:36更新ChinaList 
 [/13th.tech/]https://doh.apad.pro/dns-query
 [/423down.com/]https://doh.apad.pro/dns-query
 [/bokecc.com/]https://doh.apad.pro/dns-query
@@ -147,8 +147,6 @@ https://doh.opendns.com/dns-query
 [/douyu.tv/]https://doh.apad.pro/dns-query
 [/douyuscdn.com/]https://doh.apad.pro/dns-query
 [/douyutv.com/]https://doh.apad.pro/dns-query
-[/epicgames.com/]https://doh.apad.pro/dns-query
-[/epicgames.dev/]https://doh.apad.pro/dns-query
 [/helpshift.com/]https://doh.apad.pro/dns-query
 [/paragon.com/]https://doh.apad.pro/dns-query
 [/unrealengine.com/]https://doh.apad.pro/dns-query
@@ -686,3 +684,5 @@ https://doh.opendns.com/dns-query
 [/fmetro.net/]https://doh.apad.pro/dns-query
 [/mnn.tw/]https://doh.apad.pro/dns-query
 [/3.cn/]https://doh.apad.pro/dns-query
+[/lele233.cn/]https://doh.apad.pro/dns-query
+[/apad.pro/]https://doh.apad.pro/dns-query
