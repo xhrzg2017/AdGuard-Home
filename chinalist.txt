@@ -1,4 +1,4 @@
-# 2023-07-19 06:14更新ChinaList 
+# 2023-07-19 11:21更新ChinaList 
 [/13th.tech/]https://doh.apad.pro/dns-query
 [/423down.com/]https://doh.apad.pro/dns-query
 [/bokecc.com/]https://doh.apad.pro/dns-query
