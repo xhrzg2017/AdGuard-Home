@@ -1,4 +1,4 @@
-# 2023-08-09 18:16更新ChinaList 
+# 2023-08-09 19:16更新ChinaList 
 [/apad.pro/]https://doh.apad.pro/dns-query
 [/izhanchi.com/]https://doh.apad.pro/dns-query
 [/fmetro.net/]https://doh.apad.pro/dns-query
@@ -6,6 +6,8 @@
 [/yungengxin.com/]https://doh.apad.pro/dns-query
 [/haowu.link/]https://doh.apad.pro/dns-query
 [/mnn.tw/]https://doh.apad.pro/dns-query
+[/ipw.cn/]https://doh.apad.pro/dns-query
+[/testipv6.cn/]https://doh.apad.pro/dns-query
 [/00cdn.com/]https://doh.apad.pro/dns-query
 [/0daydown.com/]https://doh.apad.pro/dns-query
 [/0o0.ooo/]https://doh.apad.pro/dns-query
@@ -35,6 +37,7 @@
 [/21cn.com/]https://doh.apad.pro/dns-query
 [/21tb.com/]https://doh.apad.pro/dns-query
 [/2345.com/]https://doh.apad.pro/dns-query
+[//]https://doh.apad.pro/dns-query
 [/2cto.com/]https://doh.apad.pro/dns-query
 [/3322.cc/]https://doh.apad.pro/dns-query
 [/3366.com/]https://doh.apad.pro/dns-query
