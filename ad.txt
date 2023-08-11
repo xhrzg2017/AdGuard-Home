@@ -19,19 +19,22 @@
 ||www.vmix.com
 
 #长安通信
-||chanct.cn^
-||gjfzpt.cn^
-||fz96110.com^
-||chanct.com^
-||chanct.ltd^
+||chanct.cn
+||gjfzpt.cn
+||fz96110.com
+||chanct.com
+||chanct.ltd
 
 #黑瞳信息
-||fzlm.org.cn^
+||fzlm.org.cn
 
 #B站PCDN
-||szbdyd.com^
-||mcdn.bilivideo.com^
-||mcdn.bilivideo.cn^
+||szbdyd.com
+||mcdn.bilivideo.com
+||mcdn.bilivideo.cn
+
+#斗鱼PCDN
+||sdkapi.douyucdn.cn
 
 #donho notepad++
 ||notepad-plus-plus.org
