@@ -26,7 +26,7 @@ with open(dirs+'/vps.txt','w+',encoding='utf-8') as f:
     # print(data)
     info ='# '+time+'更新 \n' + '# 本txt文件由Actions定时生成\n# 用于VPS国际、国内分流\n# 项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
     f.write(info)
-    outsea = '4.2.2.2\n168.126.63.1\n203.112.2.4\n'
+    outsea = '4.2.2.2\n168.126.63.1\n219.98.247.51\n'
     f.write(outsea)
     dns = '168.95.192.1\n'
     f.write(dns)
