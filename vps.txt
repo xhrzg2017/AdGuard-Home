@@ -1,4 +1,4 @@
-# 2023-08-29 13:19更新 
+# 2023-08-29 18:22更新 
 # 本txt文件由Actions定时生成
 # 用于VPS国际、国内分流
 # 项目地址：https://github.com/xhrzg2017/AdGuard-Home
@@ -7,7 +7,7 @@
 219.98.247.51
 168.95.192.1
 [/webstatic.hoyoverse.com/]168.95.192.1
-# 2023-08-29 13:13更新ChinaList 
+# 2023-08-29 18:16更新ChinaList 
 [/apad.pro/]https://doh.apad.pro/dns-query
 [/izhanchi.com/]https://doh.apad.pro/dns-query
 [/fmetro.net/]https://doh.apad.pro/dns-query
