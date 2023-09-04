@@ -1,4 +1,4 @@
-# 2023-09-04 22:13更新ChinaList 
+# 2023-09-05 01:13更新ChinaList 
 [/apad.pro/]https://doh.apad.pro/dns-query
 [/izhanchi.com/]https://doh.apad.pro/dns-query
 [/fmetro.net/]https://doh.apad.pro/dns-query
