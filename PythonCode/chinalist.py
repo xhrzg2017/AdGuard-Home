@@ -37,7 +37,7 @@ def dns():
         with open(dirs + '/cache.txt', 'r', encoding='utf-8') as file1:
             for line in file1:
                 line=line.replace('\n', '')
-                instde_dns = 'https://doh.apad.pro/dns-query\n'
+                instde_dns = 'https://dns.alidns.com/dns-query\n'
                 str1='[/'+line+'/]'+instde_dns
                 file.write(str1)
             file.close()
