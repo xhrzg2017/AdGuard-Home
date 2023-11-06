@@ -26,9 +26,9 @@ with open(dirs+'/vps.txt','w+',encoding='utf-8') as f:
     # print(data)
     info ='# '+time+'更新 \n' + '# 本txt文件由Actions定时生成\n# 用于VPS国际、国内分流\n# 项目地址：https://github.com/xhrzg2017/AdGuard-Home\n'
     f.write(info)
-    outsea = 'tls://jp.tiar.app\ntls://dot.tiar.app\nhttps://public.dns.iij.jp/dns-query\n'
+    outsea = 'tls://1.1.1.1\ntls://1.0.0.1\nhttps://1.1.1.1/dns-query\n'
     f.write(outsea)
-    dns = 'https://jp.tiarap.org/dns-query\n'
+    dns = 'https://1.0.0.1/dns-query\n'
     f.write(dns)
     outside = '[/webstatic.hoyoverse.com/]'+dns
     f.write(outside)
