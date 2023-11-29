@@ -39,3 +39,6 @@
 #donho notepad++
 ||notepad-plus-plus.org
 ||donho.github.io
+
+#广告域名
+||ads.superad.cc
