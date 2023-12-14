@@ -42,3 +42,4 @@
 
 #广告域名
 ||ads.superad.cc
+||hzhuanen.top
