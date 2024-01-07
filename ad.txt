@@ -1,22 +1,12 @@
 !Title: AdGuard-Home
-!Version: 20230624
+!Version: 20240107
 !Homepage: https://github.com/xhrzg2017/AdGuard-Home
 !!!This list only applies to "AdGuard Home"
 
+##隐私保护（禁止后台联网）
 #搜狗
 ||get.sogou.com
 ||ping.pinyin.sogou.com
-
-#wps
-||cloudservice7.kingsoft-office-service.com
-
-#Vimx
-||vmix.com
-||2534.vmix.com
-||vmixcloud.com
-||vmix.com.au
-||2266.vmix.com
-||www.vmix.com
 
 #长安通信
 ||chanct.cn
@@ -28,6 +18,23 @@
 #黑瞳信息
 ||fzlm.org.cn
 
+##你已成为正版软件受害者
+#Vimx
+||vmix.com
+||2534.vmix.com
+||vmixcloud.com
+||vmix.com.au
+||2266.vmix.com
+||www.vmix.com
+
+#wps
+||cloudservice7.kingsoft-office-service.com
+
+#donho notepad++
+||notepad-plus-plus.org
+||donho.github.io
+
+##视频平台去P2P 
 #B站PCDN
 ||szbdyd.com
 ||mcdn.bilivideo.com
@@ -36,11 +43,16 @@
 #斗鱼PCDN
 ||sdkapi.douyucdn.cn
 
-#donho notepad++
-||notepad-plus-plus.org
-||donho.github.io
 
-#广告域名
+##广告域名
+#Superad
 ||ads.superad.cc
+
+#	何亚山
 ||hzhuanen.top
+
+#点冠网络
 ||aiclk.com
+
+#基分文化传播（趣头条）
+||1sapp.com
