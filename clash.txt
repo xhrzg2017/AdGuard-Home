@@ -1,10 +1,10 @@
-# 2024-03-24 22:15更新 
+# 2024-03-25 01:16更新 
 # 本txt文件由Actions定时生成
 # 用于clash分流
 #项目地址：https://github.com/xhrzg2017/AdGuard-Home
 127.0.0.1:7874
 [/webstatic.hoyoverse.com/]127.0.0.1:7874
-# 2024-03-24 22:12更新ChinaList 
+# 2024-03-25 01:13更新ChinaList 
 [/apad.pro/]https://dns.alidns.com/dns-query
 [/izhanchi.com/]https://dns.alidns.com/dns-query
 [/fmetro.net/]https://dns.alidns.com/dns-query
