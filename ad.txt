@@ -4,6 +4,7 @@
 !!!This list only applies to "AdGuard Home"
 
 ##进口设备（激活专用）
+#ATV
 203.107.6.88 time.android.com
 
 ##隐私保护（禁止后台联网）
