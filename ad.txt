@@ -31,6 +31,11 @@
 ||2266.vmix.com
 ||www.vmix.com
 
+#Idm
+||registeridm.com 
+||www.registeridm.com 
+||www.internetdownloadmanager.com
+
 #wps
 ||cloudservice7.kingsoft-office-service.com
 
@@ -46,7 +51,6 @@
 
 #斗鱼PCDN
 ||sdkapi.douyucdn.cn
-
 
 ##广告域名
 #Superad
