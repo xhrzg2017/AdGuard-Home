@@ -1,4 +1,4 @@
-# 2024-11-28 18:30更新 
+# 2024-11-28 22:26更新 
 # 本txt文件由Actions定时生成
 # 用于VPS国际、国内分流
 # 项目地址：https://github.com/xhrzg2017/AdGuard-Home
@@ -7,7 +7,7 @@ tls://1.0.0.1
 https://1.1.1.1/dns-query
 https://1.0.0.1/dns-query
 [/webstatic.hoyoverse.com/]https://1.0.0.1/dns-query
-# 2024-11-28 18:22更新ChinaList 
+# 2024-11-28 22:19更新ChinaList 
 [/apad.pro/]https://dns.alidns.com/dns-query
 [/izhanchi.com/]https://dns.alidns.com/dns-query
 [/fmetro.net/]https://dns.alidns.com/dns-query
