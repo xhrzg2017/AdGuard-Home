@@ -1,7 +1,7 @@
 name: 自动采集vps+adg的分流文件
 
 # 触发条件
-于:
+on:
   # push的时候触发
   # push:
   #   branches: main
@@ -47,4 +47,4 @@ jobs:
       uses:  ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.token }}
-        分支: master
+        branch: master
