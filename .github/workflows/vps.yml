@@ -1,7 +1,7 @@
 name: 自动采集vps+adg的分流文件
 
 # 触发条件
-on:
+于:
   # push的时候触发
   # push:
   #   branches: main
@@ -21,7 +21,7 @@ jobs:
       with:
         python-version: '3.8'
     - name: 加载缓存  
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
@@ -47,4 +47,4 @@ jobs:
       uses:  ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.token }}
-        branch: master
+        分支: master
