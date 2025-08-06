@@ -1,4 +1,4 @@
-# 2025-08-06 11:04更新ChinaList 
+# 2025-08-06 13:33更新ChinaList 
 [/apad.pro/]https://dns.alidns.com/dns-query
 [/izhanchi.com/]https://dns.alidns.com/dns-query
 [/fmetro.net/]https://dns.alidns.com/dns-query
