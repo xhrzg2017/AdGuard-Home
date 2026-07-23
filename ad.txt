@@ -1,0 +1,20 @@
+203.107.6.88 time.android.com
+||get.sogou.com
+||ping.pinyin.sogou.com
+||chanct.cn
+||gjfzpt.cn
+||fz96110.com
+||chanct.com
+||chanct.ltd
+||fzlm.org.cn
+||notepad-plus-plus.org
+||donho.github.io
+||szbdyd.com
+||mcdn.bilivideo.com
+||mcdn.bilivideo.cn
+||sdkapi.douyucdn.cn
+||ads.superad.cc
+||hzhuanen.top
+||aiclk.com
+||1sapp.com
+||nbpicture.xyz
